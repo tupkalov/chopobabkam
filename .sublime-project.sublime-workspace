@@ -1,0 +1,986 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get-ma",
+				"get-margin-right"
+			],
+			[
+				"get",
+				"get-padding-right"
+			],
+			[
+				"get-pad",
+				"get-padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"cet",
+				"center"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"que",
+				"query-320"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"qu",
+				"query-320"
+			],
+			[
+				"query",
+				"query-320"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ge",
+				"get-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"qy",
+				"query-1024"
+			],
+			[
+				"lo",
+				"loadPromise"
+			],
+			[
+				"coll",
+				"collections"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"users",
+				"usersCollection"
+			],
+			[
+				"remin",
+				"remindersCollection"
+			],
+			[
+				"sec",
+				"secondEnd"
+			],
+			[
+				"sta",
+				"startScrollTop"
+			],
+			[
+				"scol",
+				"scrollTop"
+			],
+			[
+				"secon",
+				"secondStart"
+			],
+			[
+				"seco",
+				"secondStart"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"win",
+				"windowHeight"
+			],
+			[
+				"arr",
+				"arrowElement"
+			],
+			[
+				"stop",
+				"stopClassName"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"slide",
+				"slideClassName"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"act",
+				"active"
+			],
+			[
+				"sli",
+				"slideClassName"
+			],
+			[
+				"deb",
+				"debouncedChangeColor"
+			],
+			[
+				"de",
+				"debouncedCalcEdges"
+			],
+			[
+				"cal",
+				"calcColor"
+			],
+			[
+				"rgb",
+				"redux-field-color-rgba\tredux-field-color-rgba"
+			],
+			[
+				"e",
+				"endDeltaScrollTop"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"about",
+				"aboutElement"
+			],
+			[
+				"sh",
+				"sheduled"
+			],
+			[
+				"shedul",
+				"shedulesArgs"
+			],
+			[
+				"hel",
+				"helloElement"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"des",
+				"desktop-wide"
+			],
+			[
+				"less",
+				"less-watch-compiler"
+			],
+			[
+				"exte",
+				"extend"
+			],
+			[
+				"in",
+				"indexSeparator"
+			],
+			[
+				"wr",
+				"wrappedMessageMap"
+			],
+			[
+				"Wr",
+				"wrappedMessageFlag"
+			],
+			[
+				"w",
+				"wrappedFrom"
+			],
+			[
+				"Ex",
+				"Extended"
+			],
+			[
+				"WR",
+				"wrappedFrom"
+			],
+			[
+				"wra",
+				"wrappedMessage"
+			],
+			[
+				"test",
+				"testString"
+			],
+			[
+				"WRA",
+				"WrappedError"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"ass",
+				"assert"
+			],
+			[
+				"Ap",
+				"AppError"
+			],
+			[
+				"Exte",
+				"ExtendedError"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"In",
+				"InternalError"
+			],
+			[
+				"E",
+				"Error"
+			],
+			[
+				"interna",
+				"InternalError"
+			],
+			[
+				"VKO",
+				"VKONTAKTE_APP_ID"
+			],
+			[
+				"Logi",
+				"LoginWindow"
+			],
+			[
+				"map",
+				"mapDispatchToProps"
+			],
+			[
+				"styl",
+				"styles"
+			],
+			[
+				"render",
+				"renderProps"
+			],
+			[
+				"rende",
+				"renderProps"
+			],
+			[
+				"wel",
+				"welcomeTitleText"
+			],
+			[
+				"re",
+				"react-router"
+			],
+			[
+				"ro",
+				"routerMiddleware"
+			],
+			[
+				"route",
+				"routerReducer"
+			],
+			[
+				"cre",
+				"createMemoryHistory"
+			],
+			[
+				"hubhead_",
+				"hubhead_front"
+			],
+			[
+				"hubhe",
+				"hubhead_lib"
+			],
+			[
+				"docker",
+				"docker-images"
+			],
+			[
+				"hu",
+				"hubhead_lib"
+			],
+			[
+				"sphere",
+				"sphereModel"
+			],
+			[
+				"for",
+				"forEach"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 30,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "version: \"2\"\nservices:\n\n  server:\n    build:\n  nginx:\n    image: nginx\n    volumes:\n      - ./public:/usr/share/nginx/html:ro\n    ports:\n      - 3000:80\n\n  stylus:\n    image: gruen/stylus\n    volumes:\n      - ./styles/:/inputfiles/\n      - ./public/css/:/outputfiles/\n    command: -m -w /inputfiles/index.styl --out /outputfiles/index.css\n    \n  # sass:\n  #   build: \n  #     context: .\n  #     dockerfile: sass.Dockerfile\n  #   volumes:\n  #     - ./scss:/scss\n  #     - ./public/css:/css\n\n  pug:\n    build:\n      context: .\n      dockerfile: pug.Dockerfile\n    volumes:\n      - ./:/app\n    command: pug ./pug/ --watch --out ./public\n\n\n  livereload:\n    build:\n      context: .\n      dockerfile: livereload.Dockerfile\n    volumes:\n      - ./:/deps/app\n    ports:\n      - 35729:35729\n\n  webpack:\n    build: ./webpack\n    volumes:\n      - ./webpack/:/input\n      - ./public/js:/output",
+			"file": "docker-compose.yml",
+			"file_size": 861,
+			"file_write_time": 131361907945734000,
+			"settings":
+			{
+				"buffer_size": 882,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 310.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"redux",
+				"Snippet: redux-field-spacing"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/tupkalov/work/chopobabkam"
+	],
+	"file_history":
+	[
+		"/home/tupkalov/work/niketo-ftp/sftp-config.json",
+		"/home/tupkalov/work/niketo/pug/index.pug",
+		"/home/tupkalov/work/niketo/webpack/scripts/entry.js",
+		"/home/tupkalov/work/niketo/styles/grid.styl",
+		"/home/tupkalov/work/niketo/webpack/scripts/transition.js",
+		"/home/tupkalov/work/niketo/pug/project.pug",
+		"/home/tupkalov/work/niketo/docker-compose.yml",
+		"/home/tupkalov/work/niketo/webpack/webpack.config.js",
+		"/home/tupkalov/work/niketo/webpack/transition.js",
+		"/home/tupkalov/work/acomins-inspector/webpack/scripts/auth.js",
+		"/home/tupkalov/work/acomins-inspector/webpack/scripts/entry.js",
+		"/home/tupkalov/work/acomins-inspector/front/entry.js",
+		"/home/tupkalov/work/acomins-inspector/front/middleware/index.js",
+		"/home/tupkalov/work/acomins-inspector/front/views/index.pug",
+		"/home/tupkalov/work/acomins-inspector/front/views/extends/main.pug",
+		"/home/tupkalov/work/app-error/index.js",
+		"/home/tupkalov/work/app-error/package.json",
+		"/home/tupkalov/work/app-error/test/test.js",
+		"/home/tupkalov/work/acomins-inspector/front/db/db.js",
+		"/home/tupkalov/work/acomins-inspector/nginx.conf",
+		"/home/tupkalov/work/acomins-inspector/front/Dockerfile",
+		"/home/tupkalov/work/acomins-inspector/docker-compose.yml",
+		"/home/tupkalov/work/acomins-inspector/styles/index.styl",
+		"/home/tupkalov/work/acomins-inspector/backend/views/extends/main.pug",
+		"/home/tupkalov/work/acomins-inspector/backend/views/index.pug",
+		"/home/tupkalov/work/acomins-inspector/.gitignore",
+		"/home/tupkalov/work/acomins-inspector/front/loki/index.js",
+		"/home/tupkalov/work/acomins-inspector/front/loki/db.js",
+		"/home/tupkalov/work/niketo/webpack/scripts/arrow.js",
+		"/home/tupkalov/work/acomins-inspector/sample.acomins.env",
+		"/home/tupkalov/work/niketo/webpack/scripts/slideshow.js",
+		"/home/tupkalov/work/niketo/public/css/index.css",
+		"/home/tupkalov/work/niketo/styles/index.styl",
+		"/home/tupkalov/work/niketo/webpack/entry.js",
+		"/home/tupkalov/work/fastdom-throttle/index.js",
+		"/home/tupkalov/work/fastdom-throttle/package.json",
+		"/home/tupkalov/work/niketo/webpack/scripts/libs.js",
+		"/home/tupkalov/work/niketo/.gitignore",
+		"/home/tupkalov/work/niketo/public/.gitignore",
+		"/home/tupkalov/work/niketo/scripts/Dockerfile",
+		"/home/tupkalov/work/niketo/scripts/transition.js",
+		"/home/tupkalov/work/niketo/webpack/Dockerfile",
+		"/home/tupkalov/work/iqplanner/pug.Dockerfile",
+		"/home/tupkalov/work/niketo/livereload.Dockerfile",
+		"/home/tupkalov/work/niketo/scripts/libs.js",
+		"/home/tupkalov/work/niketo/scripts/entry.js",
+		"/home/tupkalov/work/niketo/webpack.config.js",
+		"/home/tupkalov/work/niketo/scripts/webpack.config.js",
+		"/home/tupkalov/work/niketo/webpack.Dockerfile",
+		"/home/tupkalov/work/fastdom-throttle/.gitignore",
+		"/home/tupkalov/work/niketo/livereload.js",
+		"/home/tupkalov/work/niketo/liveraload.js",
+		"/home/tupkalov/work/niketo/scss/index.scss",
+		"/home/tupkalov/work/niketo/public/css/index.css.map",
+		"/home/tupkalov/work/niketo/styles/index.scss",
+		"/home/tupkalov/work/niketo/public/css/index.scss",
+		"/home/tupkalov/work/niketo/stylus.Dockerfile",
+		"/home/tupkalov/work/niketo/scss/index.sass",
+		"/home/tupkalov/work/iqplanner/pug/index.pug",
+		"/home/tupkalov/work/iqplanner/less/adslides.less",
+		"/home/tupkalov/work/petoshka/package.json",
+		"/home/tupkalov/work/petoshka/app/server/middlewares/passport.js",
+		"/home/tupkalov/work/iqplanner/livereload.Dockerfile",
+		"/home/tupkalov/work/iqplanner/less/tiboard.less",
+		"/home/tupkalov/work/iqplanner/livereload.js",
+		"/home/tupkalov/work/iqplanner/public/build/bundle.css",
+		"/home/tupkalov/work/iqplanner/public/index.html",
+		"/home/tupkalov/work/iqplanner/package.json",
+		"/home/tupkalov/work/iqplanner/docker-compose.yml",
+		"/home/tupkalov/work/iqplanner/less/bundle.less",
+		"/home/tupkalov/work/iqplanner/less.Dockerfile",
+		"/home/tupkalov/work/petoshka/docker-compose.yml",
+		"/home/tupkalov/work/iqplanner/less/enter.less",
+		"/home/tupkalov/work/iqplanner/gulpfile.js",
+		"/home/tupkalov/work/petoshka/Dockerfile",
+		"/home/tupkalov/work/petoshka/ship.config.js",
+		"/home/tupkalov/work/petoshka/app/server.js",
+		"/home/tupkalov/work/app-error/.gitignore",
+		"/home/tupkalov/work/petoshka/run.sh",
+		"/home/tupkalov/work/petoshka/app/server/helpers/getHost.js",
+		"/home/tupkalov/work/petoshka/app/client.js",
+		"/home/tupkalov/work/petoshka/app/shared/components/LoginWindow/_styles.styl",
+		"/home/tupkalov/work/petoshka/app/shared/reducers/views/index.js",
+		"/home/tupkalov/work/petoshka/app/shared/containers/Welcome/index.js",
+		"/home/tupkalov/work/petoshka/app/shared/helpers/store.js",
+		"/home/tupkalov/work/petoshka/app/server/middlewares/router.js",
+		"/home/tupkalov/work/rship_test/app/shared/reducers/tracks/index.js",
+		"/home/tupkalov/work/petoshka/app/shared/components/LoginBlock/index.js",
+		"/home/tupkalov/work/petoshka/app/shared/components/LoginWindow/index.js",
+		"/home/tupkalov/work/petoshka/app/shared/reducers/index.js",
+		"/home/tupkalov/work/petoshka/app/shared/reducers/auth/index.js",
+		"/home/tupkalov/work/petoshka/app/shared/helpers/routerReducer.js",
+		"/home/tupkalov/work/petoshka/app/shared/containers/Welcome/_styles.styl",
+		"/home/tupkalov/work/petoshka/app/shared/constants/login.js",
+		"/home/tupkalov/work/petoshka/app/shared/reducers/login/index.js",
+		"/home/tupkalov/work/petoshka/node_modules/redux/lib/combineReducers.js",
+		"/home/tupkalov/work/petoshka/app/shared/actions/login/index.js",
+		"/home/tupkalov/work/petoshka/app/shared/reducers/tracks/index.js",
+		"/home/tupkalov/work/redux/examples/todos-with-undo/src/actions/login.js",
+		"/home/tupkalov/work/petoshka/app/shared/routes.js",
+		"/home/tupkalov/work/petoshka/app/shared/components/LoginButton/index.js",
+		"/home/tupkalov/work/petoshka/app/shared/components/LoginButton/_styles.styl",
+		"/home/tupkalov/work/petoshka/webpack.config.js",
+		"/home/tupkalov/work/petoshka/http.Dockerfile",
+		"/home/tupkalov/work/petoshka/webpack.Dockerfile",
+		"/home/tupkalov/work/rship_test/app/server/middlewares/router.js",
+		"/home/tupkalov/work/petoshka/nginx.conf",
+		"/home/tupkalov/work/rship_test/.editorconfig",
+		"/home/tupkalov/work/petoshka/src/common/components/Welcome.js",
+		"/home/tupkalov/work/petoshka/src/common/routing/routes.js",
+		"/home/tupkalov/work/petoshka/src/common/routing/WithStylesContext.js",
+		"/home/tupkalov/work/petoshka/src/http.js",
+		"/home/tupkalov/work/petoshka/dist/http.js",
+		"/home/tupkalov/work/petoshka/src/common/store/index.js",
+		"/home/tupkalov/work/petoshka/.gitignore",
+		"/home/tupkalov/work/petoshka/.babelrc",
+		"/home/tupkalov/work/petoshka/common/components/app.css",
+		"/home/tupkalov/work/petoshka/common/components/Welcome.js",
+		"/home/tupkalov/work/petoshka/http.js",
+		"/home/tupkalov/work/petoshka/dist/backend.js",
+		"/home/tupkalov/work/petoshka/src/common/components/app.css",
+		"/home/tupkalov/work/petoshka/src/common/components/index.js",
+		"/home/tupkalov/work/petoshka/src/common/components/App.js",
+		"/home/tupkalov/work/petoshka/src/common/lang/rus.json",
+		"/home/tupkalov/work/petoshka/src/common/routes/index.js",
+		"/home/tupkalov/work/petoshka/src/common/components/Logo.js",
+		"/home/tupkalov/work/petoshka/src/common/lang/index.js",
+		"/home/tupkalov/work/react-router-tutorial/lessons/02-rendering-a-route/modules/Repos.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/tupkalov/work/hubhead_app/mount/hubhead_public/js",
+			"/home/tupkalov/work/petoshka/app",
+			"/home/tupkalov/work/rship_test/app/shared",
+			"/home/tupkalov/work/petoshka/app",
+			"/home/tupkalov/work/petoshka/app/shared",
+			"/home/tupkalov/work/rship_test/app",
+			"/home/tupkalov/work/app/mount/hubhead_common"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&nbsp;",
+			"1020",
+			"1440",
+			".over-1024",
+			"1024",
+			" ",
+			": ",
+			";",
+			"front",
+			"errorLangMap",
+			"Login",
+			"login",
+			"map",
+			"toLoca",
+			"users",
+			"    \t",
+			"\n    \tletter",
+			"    \t",
+			"font-s",
+			"extra-letter-spacing()",
+			"\n\t\t\textra-letter-spacing()",
+			"spheresettings",
+			"spheresetting",
+			"href",
+			"a",
+			".about",
+			"\t\t\t.about__logo",
+			".about",
+			"arrowElement",
+			"monoist",
+			"HIDE_SLIDESHOW_CLASSNAME",
+			"wrapper",
+			"hellow__slide",
+			".hello__slide-img",
+			".hello__slide\n\t\t\t\t",
+			"hello__slide",
+			"shdeuled",
+			"easure",
+			"media-",
+			"margin-left",
+			"width",
+			"geberate",
+			"pug",
+			"\n    ports:\n      - 35729:35729",
+			"dockerfile",
+			"5000",
+			"AppEr",
+			"extend",
+			"..",
+			"wrappedMessageFlag",
+			"this",
+			"name",
+			"message",
+			"_config",
+			"env",
+			"SUCCESS",
+			"deepMerge",
+			"views",
+			"console.log",
+			"login",
+			"fetchComponentsData",
+			"CLOSE",
+			"LoginButton",
+			"tracks",
+			"className",
+			"assets",
+			"fetchData",
+			"css",
+			"serialize",
+			"serialize-javascript",
+			".css",
+			"class=",
+			"class",
+			"React",
+			"App",
+			"logo",
+			"res",
+			"devtoo",
+			"redux",
+			"lib",
+			"server",
+			"hubhead-",
+			"get",
+			"front",
+			"stable",
+			"local",
+			"../",
+			"deps.",
+			"deps",
+			"front",
+			"logic",
+			"front",
+			"Dockerfile",
+			"front",
+			"latest",
+			"_lib",
+			"deps.Dockerfile",
+			"deps",
+			"foo",
+			"local",
+			"$HUBHEAD_DOCKER_IMAGE_TAG",
+			"./mount/",
+			"lib",
+			"get",
+			"get_deps\n",
+			"get",
+			"'co",
+			"\"co",
+			"lodash",
+			"setDeferred",
+			"move",
+			"NoPermissions",
+			"потдве",
+			"ПОдтвер",
+			"bind",
+			"ScrollFrom",
+			"_scrollFromFindTask",
+			"rollback"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "docker-compose.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 135.0
+	},
+	"pinned_build_system": "",
+	"project": ".sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"niketopug",
+				"niketo/pug/index.pug"
+			],
+			[
+				"mainpug",
+				"acomins-inspector/backend/views/extends/main.pug"
+			],
+			[
+				"indexpug",
+				"acomins-inspector/backend/views/index.pug"
+			],
+			[
+				"pug",
+				"pug/index.pug"
+			],
+			[
+				"spherdr",
+				"mount/hubhead_public/js/views/SphereSidebar/SphereCreateDropdown.js"
+			],
+			[
+				"sphercreate",
+				"mount/hubhead_public/js/views/SplashScreen/SphereCreate.js"
+			],
+			[
+				"notfiac",
+				"mount/hubhead_public/js/views/Sidebar/notifications.actual.js"
+			],
+			[
+				"transi",
+				"niketo/webpack/transition.js"
+			],
+			[
+				"instyl",
+				"niketo/styles/index.styl"
+			],
+			[
+				"inpug",
+				"iqplanner/pug/index.pug"
+			],
+			[
+				"reduxlibcombi",
+				"petoshka/node_modules/redux/lib/combineReducers.js"
+			],
+			[
+				"",
+				"petoshka/app/shared/reducers/tracks/index.js"
+			],
+			[
+				"packa",
+				"petoshka/package.json"
+			],
+			[
+				"absta",
+				"mount/hubhead_public/js/models/abstract.model.js"
+			],
+			[
+				"servicemo",
+				"mount/hubhead_logic/services/10/serviceRouter/card/move.js"
+			],
+			[
+				"cardmodel",
+				"mount/hubhead_common/protos/cardModel.js"
+			],
+			[
+				"pick",
+				"mount/hubhead_public/js/views/pick/PickView.js"
+			],
+			[
+				"staticmove",
+				"mount/hubhead_public/js/models/task/static/move.js"
+			],
+			[
+				"sphremodel",
+				"mount/hubhead_common/protos/sphereModel.js"
+			],
+			[
+				"sphreremovem",
+				"mount/hubhead_logic/services/10/serviceRouter/sphere/removeMember.js"
+			],
+			[
+				"erroma",
+				"mount/hubhead_common/errorMap.js"
+			],
+			[
+				"sphere.model",
+				"mount/hubhead_public/js/models/sphere.model.js"
+			],
+			[
+				"scrollfro",
+				"mount/hubhead_public/js/workspace/modes/tree/View/scrollFromViewProto.js"
+			],
+			[
+				"abstrac.mode",
+				"mount/hubhead_public/js/models/abstract.model.js"
+			],
+			[
+				"abstra.mode",
+				"mount/hubhead_public/js/models/abstract.model.js"
+			],
+			[
+				"sphremo",
+				"mount/hubhead_public/js/models/sphere.model.js"
+			],
+			[
+				"taskmove",
+				"mount/hubhead_public/js/models/task/static/move.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 438.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/work/niketo.sublime-project"
+			]
+		],
+		"width": 333.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
